@@ -18,7 +18,7 @@ Unlike most people, I have lifted books in school and weapons in the army. With 
   </a>&nbsp;&nbsp;
 <p align='left'>
   
-  📫 You can reach me: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
+  📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
 </p>
 
 <details>
