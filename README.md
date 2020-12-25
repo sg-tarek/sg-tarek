@@ -4,11 +4,8 @@ Data scientist with a background in economy and finance. My path from traditiona
 Unlike most people, I have lifted books in school and weapons in the army. With a sergeant degree and master's degree, I have managed to combine two apparently different worlds to develop a personality which high drive and determination.
 
 ▪️ R
-
 ▪️ Python (Numpy, Pandas, Sklearn, Keras, etc.)
-
 ▪️ NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
-
 ▪️ Network Analysis
 </p>
 
