@@ -21,6 +21,10 @@ Unlike most people, I have lifted books in school and weapons in the army. With 
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
 </p>
 
+<p align='left'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/evelinesurbakti/evelinesurbakti"></a>
+</p>
+
 <details>
   <summary>📃 My Resume</summary>
 
