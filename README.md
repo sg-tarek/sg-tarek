@@ -10,6 +10,8 @@ Unlike most people, I have lifted books in school and weapons in the army. With 
 ▪️ NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
 
 ▪️ Network Analysis
+
+▪️ Other tools: SAS, JMP, STATA. WEKA
 </p>
 
 <p align='left'>
