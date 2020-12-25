@@ -22,7 +22,7 @@ Unlike most people, I have lifted books in school and weapons in the army. With 
 </p>
 
 <p align='left'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/evelinesurbakti/evelinesurbakti"></a>
+  <a href="#"><img src="https://badges.pufler.dev/visits/sg-tarek/sg-tarek"></a>
 </p>
 
 <details>
