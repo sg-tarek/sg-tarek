@@ -1,7 +1,7 @@
 <p align='left'>
 Data scientist with a background in economy and finance. My path from traditional finance books to heavy machine learning tools has not been conventional but has left me with a strong desire to analyze and present data to uncover and demystify the field of Artificial Intelligence.
 
-Unlike most people, I have lifted books in school and weapons in the army. With a sergeant degree and master's degree, I have managed to combine two apparently different worlds to develop a personality with high drive and determination.
+I have lifted books in school and weapons in the army. With a sergeant degree and master's degree, I have managed to combine two apparently different worlds to develop a personality with high drive and determination.
 
 ▪️ Python (Numpy, Pandas, Sklearn, Keras, etc.)
 
