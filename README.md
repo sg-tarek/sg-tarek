@@ -27,6 +27,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 
 <details>
   <summary>📃 My Resume</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-tarek)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education
 
