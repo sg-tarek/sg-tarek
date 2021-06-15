@@ -25,8 +25,6 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
   <a href="#"><img src="https://badges.pufler.dev/visits/sg-tarek/sg-tarek"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg-tarek)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
   <summary>📃 My Resume</summary>
 
