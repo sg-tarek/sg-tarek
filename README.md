@@ -40,6 +40,10 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 📍 **Copenhagen Business School** - Copenhagen, Denmark
 
 ## Experience
-- 👨‍💻 **Data Analyst**\
+- 👨‍💻 **IT Consultant**\
+📆 2021 - \
+📍 **Deloitte* - Copenhagen, Denmark
+  
+  - 👨‍💻 **Data Analyst**\
 📆 2019 - 2021\
 📍 **Danish Agency for Labour Market and Recruitment* - Copenhagen, Denmark
