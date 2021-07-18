@@ -9,7 +9,7 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 
 ▪️ Network Analysis
 
-▪️ Other tools: R, SAS, JMP, STATA, WEKA
+▪️ Other tools: R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL
 </p>
 
 <p align='left'>
