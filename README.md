@@ -38,6 +38,10 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 - 📖 **BSc in Business Administration and Management**\
 📆 2016 - 2019\
 📍 **Copenhagen Business School** - Copenhagen, Denmark
+  
+- 📖 **Sergeant**\
+📆 2013 - 2014\
+📍 **Royal Danish Army** - Copenhagen, Denmark
 
 ## Experience
 - 👨‍💻 **IT Consultant**\
