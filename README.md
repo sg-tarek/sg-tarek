@@ -47,3 +47,7 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 - 👨‍💻 **Data Analyst**\
 📆 2019 - 2021\
 📍 **Danish Agency for Labour Market and Recruitment* - Copenhagen, Denmark
+  
+- 👨‍💻 **Instructor in statistics**\
+📆 2017 - 2021\
+📍 **Copenhagen Business School* - Copenhagen, Denmark
