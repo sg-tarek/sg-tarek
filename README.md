@@ -23,8 +23,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
     <a alt="python">
         <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
  
-    <a alt="python">
-        <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
+    <a alt="python2">
+        <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=black" /></a>
 </p>
 
     
