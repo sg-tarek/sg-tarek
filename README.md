@@ -51,6 +51,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
       <img src="https://img.shields.io/badge/-NumPy-blue?logo=NumPy&logoColor=white" /></a>
     <a alt="Keras">
       <img src="https://img.shields.io/badge/-Keras-blue?logo=Keras&logoColor=white" /></a>
+    <a alt="WordPress">
+      <img src="https://img.shields.io/badge/-WordPress-blue?logo=WordPress&logoColor=white" /></a>
 </p>
     
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
