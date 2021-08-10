@@ -28,6 +28,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
       <img src="https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white" /></a>
     <a alt="HTML5">
       <img src="https://img.shields.io/badge/-HTML-blue?logo=HTML5&logoColor=white" /></a>
+    <a alt="JavaScript">
+      <img src="https://img.shields.io/badge/-JavaScript-blue?logo=JavaScript&logoColor=white" /></a>
 </p>
     
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
