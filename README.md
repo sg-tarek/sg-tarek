@@ -2,8 +2,8 @@
   <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
  
-  <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
-   <img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-blue?logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://medium.com/@ta.ghanoum" alr="Medium">
+    <img src="https://img.shields.io/badge/-Medium-gold?logo=Medium&logoColor=black" /></a>
 <p align='left'>
 
 <p align='left'>
