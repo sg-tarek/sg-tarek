@@ -45,6 +45,12 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
       <img src="https://img.shields.io/badge/-Heroku-blue?logo=Heroku&logoColor=white" /></a>
     <a alt="SQLite">
       <img src="https://img.shields.io/badge/-SQLite-blue?logo=SQLite&logoColor=white" /></a>
+    <a alt="pandas">
+      <img src="https://img.shields.io/badge/-pandas-blue?logo=pandas&logoColor=white" /></a>
+    <a alt="NumPy">
+      <img src="https://img.shields.io/badge/-NumPy-blue?logo=NumPy&logoColor=white" /></a>
+    <a alt="Keras">
+      <img src="https://img.shields.io/badge/-Keras-blue?logo=Keras&logoColor=white" /></a>
 </p>
     
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
