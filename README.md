@@ -12,9 +12,9 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 ▪️ Other tools: R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL
 </p>
  
-<p align='left'>
-  <a href="https://www.linkedin.com/in/tarekghanoum/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align='center'>
+  <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
+    <img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-blue?logo=LinkedIn&logoColor=white" />
   </a>&nbsp;&nbsp;
 <p align='left'>
 
