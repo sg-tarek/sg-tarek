@@ -17,7 +17,20 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 <p align='left'>
-  
+
+ 
+<div class="row">
+  <div class="column">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" style="width:100%">
+  </div>
+</div> 
+
 
 <p align='left'>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
