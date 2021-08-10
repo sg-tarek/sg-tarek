@@ -26,6 +26,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
        <img src="https://img.shields.io/badge/-blue?logo=c&logoColor=white" /></a>
     <a alt="R">
        <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" /></a>
+    <a alt="Git">
+       <img src="https://img.shields.io/badge/-Git-blue?logo=Git&logoColor=white" /></a>
     <a alt="CSS3">
       <img src="https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white" /></a>
     <a alt="HTML5">
