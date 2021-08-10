@@ -24,6 +24,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
         <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
     <a alt="C">
        <img src="https://img.shields.io/badge/-blue?logo=c&logoColor=white" /></a>
+    <a alt="R">
+       <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" /></a>
     <a alt="CSS3">
       <img src="https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white" /></a>
     <a alt="HTML5">
@@ -36,6 +38,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
       <img src="https://img.shields.io/badge/-Flask-blue?logo=Flask&logoColor=white" /></a>
     <a alt="Heroku">
       <img src="https://img.shields.io/badge/-Heroku-blue?logo=Heroku&logoColor=white" /></a>
+    <a alt="SQLite">
+      <img src="https://img.shields.io/badge/-SQLite-blue?logo=SQLite&logoColor=white" /></a>
 </p>
     
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
