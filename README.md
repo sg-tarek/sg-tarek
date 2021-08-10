@@ -1,3 +1,5 @@
+[<img align ="left" alt="tarekghanoum | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+
 <p align='left'>
 Data scientist with a background in economy and finance. My path from traditional finance books to heavy machine learning tools has not been conventional but has left me with a strong desire to analyze and present data to uncover and demystify the field of Artificial Intelligence.
 
@@ -82,3 +84,5 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 - 👨‍💻 **Instructor in statistics**\
 📆 2017 - 2021\
 📍 **Copenhagen Business School* - Copenhagen, Denmark
+ 
+[linkedin]: https://www.linkedin.com/in/tarekghanoum/
