@@ -11,10 +11,6 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 
 ▪️ Other tools: R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL
 </p>
-
-<p align='left'>
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
-<p align='left'>
  
 <p align='left'>
   <a href="https://www.linkedin.com/in/tarekghanoum/">
@@ -22,6 +18,16 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
   </a>&nbsp;&nbsp;
 <p align='left'>
   
+
+<p align='left'>
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
+<p align='left'>
+
+<p align='left'>
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
+<p align='left'>
+    
+    
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
 </p>
 
