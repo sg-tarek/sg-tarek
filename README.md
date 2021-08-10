@@ -20,36 +20,11 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 
 
 <p align="center">
-    <a alt="Contributors">
+    <a alt="python">
         <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
  
-    <a alt="Backers on Open Collective">
-        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
- 
-    <a alt="Sponsors on Open Collective">
-        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
-    
-    <a alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-    
-    <a>
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-    
-    <a>
-        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
-            alt="service-test status"></a>
-    <a>
-        <img src="https://img.shields.io/coveralls/github/badges/shields"
-            alt="coverage"></a>
-    <a>
-        <img src="https://img.shields.io/lgtm/alerts/g/badges/shields"
-            alt="Total alerts"/></a>
-    <a>
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord"></a>
-    <a>
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
+    <a alt="python">
+        <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
 </p>
 
     
