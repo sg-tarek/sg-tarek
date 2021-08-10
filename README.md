@@ -21,9 +21,9 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
  
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" /></th>
+    <th><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" /></th> 
+    <th><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" /></th>
   </tr>
   <tr>
     <td>Jill</td>
