@@ -1,4 +1,10 @@
-[<img align ="left" alt="tarekghanoum | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+<p align='center'>
+  <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=white" /></a>
+ 
+  <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
+   <img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-blue?logo=LinkedIn&logoColor=white" /></a>
+<p align='left'>
 
 <p align='left'>
 Data scientist with a background in economy and finance. My path from traditional finance books to heavy machine learning tools has not been conventional but has left me with a strong desire to analyze and present data to uncover and demystify the field of Artificial Intelligence.
@@ -14,13 +20,7 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 ▪️ Other tools: R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL
 </p>
  
-<p align='center'>
-  <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
-    <img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-blue?logo=LinkedIn&logoColor=white" />
-  </a>
-<p align='left'>
-
- <h4> Languages and Frameworks I know and study</h4>
+<h4> Languages and Frameworks I know and study</h4>
 
 <p align="center">
     <a alt="python">
