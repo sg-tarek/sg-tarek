@@ -17,7 +17,7 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 <p align='center'>
   <a href="https://www.linkedin.com/in/tarekghanoum/" alr="LinkedIn">
     <img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-blue?logo=LinkedIn&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
 <p align='left'>
 
  <h4> Languages and Frameworks I know and study</h4>
