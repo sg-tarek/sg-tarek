@@ -21,15 +21,20 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 
 <p align="center">
     <a alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+        <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
+ 
     <a alt="Backers on Open Collective">
         <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+ 
     <a alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
+    
     <a alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    
     <a>
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
+    
     <a>
         <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
             alt="service-test status"></a>
