@@ -17,7 +17,7 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
 
 ▪️ Network Analysis
 
-▪️ Other tools: R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL, Heroku, Power BI
+▪️ Other tools: Google Cloud Platform (GCP) R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL, Heroku, Power BI, Docker, Kubernetes
 </p>
  
 <h4> Languages and Frameworks I know and study</h4>
