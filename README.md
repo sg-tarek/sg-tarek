@@ -55,8 +55,8 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
       <img src="https://img.shields.io/badge/-WordPress-blue?logo=WordPress&logoColor=white" /></a>
     <a alt="Power BI">
       <img src="https://img.shields.io/badge/-powerbi-blue?logo=powerbi&logoColor=white" /></a>
-    <a alt="Cloud Engineering">
-      <img src="https://img.shields.io/badge/-google-blue?logo=google&logoColor=white" /></a>
+    <a alt="Google">
+      <img src="https://img.shields.io/badge/-GCP-blue?logo=google&logoColor=white" /></a>
     <a alt="Docker">
       <img src="https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white" /></a>
     <a alt="Kubernetes">
