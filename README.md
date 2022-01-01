@@ -66,10 +66,6 @@ I have lifted books in school and weapons in the army. With a sergeant degree an
   📫 You can reach me at: <a href='mailto: ta.ghanoum@gmail.com'>ta.ghanoum@gmail.com</a>
 </p>
 
-<p align='left'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/sg-tarek/sg-tarek"></a>
-</p>
-
 <details>
   <summary>📃 My Resume</summary>
 
