@@ -9,13 +9,16 @@
 <p align='left'>
 Data scientist with a background in economy and finance. My path from traditional finance books to heavy machine learning tools has not been conventional but has left me with a strong desire to analyze and present data to uncover and demystify the field of Artificial Intelligence.
 
-▪️ Python (Numpy, Pandas, Sklearn, Keras, etc.)
+• Data Engineering (BigQuery, Dataflow, CI/CD)
+• Software Engineering (HTML, CSS, JS, and Bootstrap)
+• Machine Learning (supervised/unsupervised)
+• Time Series Analysis (ARIMA)
+• Version Control with Git
+• Python (Numpy, Pandas, Sklearn, Keras, Flask)
+• NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
+• Cloud (GCP, Heroku, Docker, Kubernetes)
+• SQL (SQLite, T-SQL, Vertica, PostgreSQL)
 
-▪️ NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
-
-▪️ Network Analysis
-
-▪️ Other tools: Google Cloud Platform (GCP) R, SAS, JMP, STATA, WEKA, HTML, CSS, JS, C, SQL, Heroku, Power BI, Docker, Kubernetes
 </p>
  
 <h4> Languages and Frameworks I know and study</h4>
