@@ -9,9 +9,11 @@
 <p align='left'>
 Data scientist with a background in economy and finance. My path from traditional finance books to heavy machine learning tools has not been conventional but has left me with a strong desire to analyze and present data to uncover and demystify the field of Artificial Intelligence.
 
-• Data Engineering (BigQuery, Dataflow, CI/CD)
-• Software Engineering (HTML, CSS, JS, and Bootstrap)
-• Machine Learning (supervised/unsupervised)
+
+  • Data Engineering (BigQuery, Dataflow, CI/CD)
+  • Software Engineering (HTML, CSS, JS, and Bootstrap)
+
+  • Machine Learning (supervised/unsupervised)
 • Time Series Analysis (ARIMA)
 • Version Control with Git
 • Python (Numpy, Pandas, Sklearn, Keras, Flask)
