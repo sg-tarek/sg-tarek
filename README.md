@@ -11,15 +11,22 @@ Data scientist with a background in economy and finance. My path from traditiona
 
 
   • Data Engineering (BigQuery, Dataflow, CI/CD)
+
   • Software Engineering (HTML, CSS, JS, and Bootstrap)
 
   • Machine Learning (supervised/unsupervised)
-• Time Series Analysis (ARIMA)
-• Version Control with Git
-• Python (Numpy, Pandas, Sklearn, Keras, Flask)
-• NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
-• Cloud (GCP, Heroku, Docker, Kubernetes)
-• SQL (SQLite, T-SQL, Vertica, PostgreSQL)
+
+  • Time Series Analysis (ARIMA)
+
+  • Version Control with Git
+
+  • Python (Numpy, Pandas, Sklearn, Keras, Flask)
+
+  • NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
+
+  • Cloud (GCP, Heroku, Docker, Kubernetes)
+
+  • SQL (SQLite, T-SQL, Vertica, PostgreSQL)
 
 </p>
  
