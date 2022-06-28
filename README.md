@@ -9,6 +9,7 @@
 <p align='left'>
 Data scientist with a background in economy and finance. My path from traditional finance books to heavy machine learning tools has not been conventional but has left me with a strong desire to analyze and present data to uncover and demystify the field of Artificial Intelligence.
 
+<h4> Languages and Frameworks I know and study</h4>
 
   • Data Engineering (BigQuery, Dataflow, CI/CD)
 
@@ -29,8 +30,7 @@ Data scientist with a background in economy and finance. My path from traditiona
   • SQL (SQLite, T-SQL, Vertica, PostgreSQL)
 
 </p>
- 
-<h4> Languages and Frameworks I know and study</h4>
+
 
 <p align="center">
     <a alt="python">
