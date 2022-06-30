@@ -19,8 +19,6 @@ Data scientist with a background in economy and finance. My path from traditiona
 
   • Time Series Analysis (ARIMA)
 
-  • Version Control with Git
-
   • Python (Numpy, Pandas, Sklearn, Keras, Flask)
 
   • NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
